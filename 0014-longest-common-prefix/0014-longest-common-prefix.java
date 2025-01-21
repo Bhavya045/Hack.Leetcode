@@ -4,7 +4,7 @@ class Solution {
         String strs1=strs[0];
         String strs2=strs[strs.length-1];
         int index=0;
-        while(index<strs1.length()){
+        while(index<strs2.length()){
             if(strs1.charAt(index)==strs2.charAt(index)){
                 index++;
             }else{
@@ -12,6 +12,6 @@ class Solution {
             }
             
         }
-        return index==0?"":strs1.substring(0,index);
+        return index==0?"":strs2.substring(0,index);
     }
 }
