@@ -43,3 +43,11 @@ Feel free to connect with me on [LeetCode](https://leetcode.com/u/bhavya007/) to
 Happy Coding! 👨‍💻🚀
 
 --- 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0058-length-of-last-word](https://github.com/Bhavya045/Hack.Leetcode/tree/main/0058-length-of-last-word/) | Easy |
+<!---LeetCode Topics End-->
