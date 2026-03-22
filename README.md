@@ -50,6 +50,7 @@ Happy Coding! 👨‍💻🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/Bhavya045/Hack.Leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/Bhavya045/Hack.Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhavya045/Hack.Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -63,4 +64,8 @@ Happy Coding! 👨‍💻🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhavya045/Hack.Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Bhavya045/Hack.Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
